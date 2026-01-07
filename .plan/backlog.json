@@ -1,4 +1,17 @@
 {
-  "lastSequence": 0,
-  "items": []
+  "lastSequence": 1,
+  "items": [
+    {
+      "id": 1,
+      "title": "Accelerator Pipeline Foundation",
+      "description": "Build foundation for automating startup accelerator, grant, and angel network discovery and applications. Includes data schemas, CLI tooling, and initial scraper for Notion accelerator directory.",
+      "category": "feature",
+      "severity": "medium",
+      "fingerprint": "feature|1|accelerator-pipeline-foundation",
+      "source": "/pro:feature",
+      "sourceBranch": "feature/accelerator-pipeline-foundation",
+      "createdAt": "2026-01-07T00:00:00.000Z",
+      "status": "in-progress"
+    }
+  ]
 }
