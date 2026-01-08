@@ -1,0 +1,11 @@
+{
+  "name": "Startup Accelerator Directory",
+  "source": "GetFluently",
+  "type": "notion",
+  "url": "https://getfluently.notion.site/Startup-Accelerator-Directory-2226a9ce04d9800bafdbc2cb4e77a552",
+  "description": "Comprehensive directory of startup accelerators with funding amounts, equity, deadlines, and focus areas",
+  "requiresJsRendering": true,
+  "lastScraped": "2026-01-07T00:00:00.000Z",
+  "itemsScraped": 100,
+  "notes": "Notion pages require JavaScript rendering. Use Playwright for scraping."
+}

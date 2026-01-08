@@ -1,0 +1,13 @@
+{
+  "lastSequence": 3,
+  "entries": [
+    {
+      "branch": "feature/accelerator-pipeline-foundation",
+      "adrs": [
+        "001-use-json-files-for-data-storage.md",
+        "002-use-zod-for-runtime-schema-validation.md",
+        "003-use-playwright-for-notion-scraping.md"
+      ]
+    }
+  ]
+}
