@@ -60,3 +60,9 @@ Build foundation for automating startup accelerator, grant, and angel network di
 - status, submittedAt
 - notes, followUps
 - content (generated application materials)
+
+## Related ADRs
+
+- [001. Use JSON Files for Data Storage](../../doc/decisions/001-use-json-files-for-data-storage.md)
+- [002. Use Zod for Runtime Schema Validation](../../doc/decisions/002-use-zod-for-runtime-schema-validation.md)
+- [003. Use Playwright for Notion Scraping](../../doc/decisions/003-use-playwright-for-notion-scraping.md)
