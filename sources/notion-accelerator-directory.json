@@ -6,6 +6,6 @@
   "description": "Comprehensive directory of startup accelerators with funding amounts, equity, deadlines, and focus areas",
   "requiresJsRendering": true,
   "lastScraped": "2026-01-07T00:00:00.000Z",
-  "itemsScraped": 35,
+  "itemsScraped": 100,
   "notes": "Notion pages require JavaScript rendering. Use Playwright for scraping."
 }
