@@ -11,8 +11,9 @@
       "source": "/pro:feature",
       "sourceBranch": "feature/accelerator-pipeline-foundation",
       "createdAt": "2026-01-07T00:00:00.000Z",
-      "status": "pr-open",
-      "prUrl": "https://github.com/wilmoore/startup-accelerators/pull/1"
+      "status": "resolved",
+      "prUrl": "https://github.com/wilmoore/startup-accelerators/pull/1",
+      "resolvedAt": "2026-01-08T13:25:49Z"
     }
   ]
 }
